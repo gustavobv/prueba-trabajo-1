@@ -1,0 +1,25 @@
+use estas lineas
+
+npm init --yes
+npm install express
+npm install nodemon
+npm install morgan
+npm install mongoose
+npm install webpack -D
+npm i webpack-cli -D
+npm install babel-core npm install babel-loader@7 babel-preset-env vue-loader vue-template-compiler -D
+npm install vue -D
+
+-------------------------------------------------------------------
+sin usuario
+	se puede ingresar un rut -> busca las listas relacionadas
+	se puede cargar componente login con su boton
+con usuario
+	se puede ingresar un rut -> busca las listas relacionadas, nombre y edad
+	se puede ingresar un rut -> busca las listas relacionadas, nombre y edad
+		la diferencia con la anterior es que las listas quedan como tablas similar a excel y pueden agregar registros como borrar y editar
+	se puede ingresar un rut, nombre y edad
+
+[X] en el pdf no se pidio crear nuevos usuarios, pero para probar deje una pagina llamada "agr_tra.html" para ingresar datos
+	*en esa pagina el campo lv se usa: 0 para trabajador no usuario, 1  para trabajador usuario
+	

@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5bccf68d6b970802c8e6c5f6"},"curso":[],"licencia":[],"rut":21920429,"dv":"9","nombre":"ENRIQUE MANUEL","edad":31,"lv":true,"__v":0}
+{"_id":{"$oid":"5bccf6dc6b970802c8e6c5f8"},"curso":[],"licencia":[],"rut":14685942,"dv":"9","nombre":"ARTIAGA JULIA","edad":25,"lv":false,"__v":0}
+{"_id":{"$oid":"5bccf70b6b970802c8e6c5f9"},"curso":[],"licencia":[],"rut":14694885,"dv":"5","nombre":"GILBERTO SILVIO","edad":28,"lv":true,"__v":0}
+{"_id":{"$oid":"5bccf72d6b970802c8e6c5fa"},"curso":[],"licencia":[],"rut":11948062,"dv":"0","nombre":"FREDDY ARMANDO","edad":23,"lv":false,"__v":0}
+{"_id":{"$oid":"5bce25a3b54d1e13508dffa4"},"curso":["3","4","3","cccc222"],"licencia":["1","xx","aaaaaa"],"rut":14520314,"dv":"7","nombre":"CONSUELO TERESITA","edad":30,"lv":true,"__v":5,"capacitacion":["2","ca1","3","11ccccc"]}
+{"_id":{"$oid":"5bd0ba47db097e18a054a52c"},"curso":["0","1","2","0","1","2","cur1","cur2","cr3"],"licencia":["0","0","l1"],"capacitacion":["0","0","ca1"],"rut":15514477,"nombre":"pr nombre 2","edad":22,"dv":"7","__v":3}
+{"_id":{"$oid":"5bd3916d36cced2cd81ccc71"},"curso":[],"licencia":[],"capacitacion":[],"rut":11407472,"nombre":"aa","edad":null,"dv":"1","__v":0}
+{"_id":{"$oid":"5bd392fc93a0ec03e884dbd3"},"curso":["cu1"],"licencia":["l12a"],"capacitacion":["ca1"],"rut":2738429,"nombre":"viejo","edad":99,"dv":"3","__v":3}
+{"_id":{"$oid":"5bd3a883a4c4ab378c6fb0ec"},"curso":["1000"],"licencia":["10"],"capacitacion":["100"],"rut":1010793,"nombre":"dies","edad":100,"dv":"8","__v":1}

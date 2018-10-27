@@ -1,0 +1,83 @@
+    body{
+        margin: 0;
+    }
+    #linea_sup{
+        background-color: khaki;
+        border-bottom: solid;
+        height: 30px;
+    }
+    #linea_sup>div>button:nth-of-type(1){
+        
+        margin: 5px;
+    }
+    #linea_sup>h4{
+        margin: 7px;
+        display: inline-block;
+    }
+    #linea_sup>div{
+        text-transform: lowercase;
+        display: initial;
+        float: right;
+    }
+    #linea_sup>div>span{
+        text-transform: capitalize;
+        margin-top: 8px;
+    }
+    #contendor{
+        margin-top: -3px;
+        margin-left: 30px;
+    }
+    #Consultar{
+            margin-top: 20px;
+    }
+
+    .menu_1{
+        display: inline-block;
+        margin: auto;
+        vertical-align: top;
+    }
+    .menu_2{
+        display: inline-block;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .menu_2 li:nth-of-type(1){
+        border-left: solid;
+    }
+    .menu_2 li{
+        background-color: khaki;
+        float: left;
+        list-style: none;
+        padding: 5px;
+        border-right: solid;
+        border-radius: 3px;
+        border-bottom: solid;
+    }
+    li:hover, button:hover{
+        cursor: pointer;
+    }
+    #Trabajador_agregar{
+        
+    }
+    #Trabajador_agregar button{
+        width: 100%;
+    }
+    #Listas_modificar table , #Listas_mostrar table{
+        display: inline-block;
+        vertical-align: top;
+    }
+    #Listas_modificar table:last-of-type{
+        display: none;
+    }
+    #Listas_mostrar>div{
+    
+    }
+    table {
+        border-spacing: 10px;
+    }
+    th{
+        text-transform: capitalize;
+    }
+    #Str_mostrar table{
+        text-transform: capitalize;
+    }
